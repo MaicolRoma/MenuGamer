@@ -1,0 +1,140 @@
+
+/* ------------reset CSS */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* -------------Body e main */
+body {
+  display: flex;
+  justify-content: center;
+background: linear-gradient(90deg, #0D0221 0%, #2A003E 100%);
+}
+main {
+  width: 100%;
+  /* padding-top: 1rem; */
+}
+
+/* -------------------------------------menu principal*/
+header {
+  background-color: #0d0221;
+  color: #08d9d6;
+  align-content: center;
+  font-family: "Tomorrow", sans-serif;
+}
+#logo {
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+#menu-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+  /* width: 100vw; */
+}
+#list-menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4rem;
+  list-style: none;
+}
+#list-menu li a {
+  text-decoration: none;
+  font-size: 1.7rem;
+  color: antiquewhite;
+}
+#buscar {
+  height: 1.8rem;
+  padding-left: 0.5rem;
+  border-radius: 0.5rem;
+  font-size: 18px;
+}
+#buscar:focus {
+  outline: none;
+}
+
+/* --------------------------------------------Menu -2 */
+.menu-container-2,
+#list-menu-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: antiquewhite;
+}
+#list-menu-2 {
+  padding: 1rem;
+  gap: 4rem;
+  list-style: none;
+}
+#list-menu-2 li a {
+  color: black;
+  font-size: 1.3rem;
+  text-decoration: none;
+}
+/* --------------------------------------section hero --------*/
+.hero {
+  display: flex;
+  position: relative;
+  height: 650px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.video-hero {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  object-fit: cover;
+}
+#articulo-hero {
+  width: 100%;
+  z-index: 5;
+  position: relative;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.445);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  color: antiquewhite;
+  font-size: 2.5rem;
+  padding-left: 0.5rem;
+}
+#text-container-hero {
+  background-color: rgba(1, 11, 26, 0.548);
+  width: 40%;
+  height: 65%;
+  border-radius: 1rem;
+  align-content: center;
+  padding: 1rem;
+}
+#text-hero {
+  width: 100%;
+  margin-bottom: 2rem;
+  text-align: left;
+  word-spacing: 8px;
+  white-space: 3px;
+  font-family: "Tomorrow", sans-serif;
+}
+#explorar-btn {
+    align-self: center;
+    width: 8rem;
+    height: 3rem;
+    border-radius: 0.5rem;
+    font-size: 1.5rem;
+    font-family: "Tomorrow", sans-serif;
+}
+#explorar-btn:hover{
+    cursor: pointer;
+    box-shadow: 1px 1px 18px 9px rgb(18, 97, 53)
+}
