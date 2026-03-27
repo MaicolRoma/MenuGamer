@@ -5,7 +5,7 @@ Este es un menú basico para un sitio web orientado a la compra de computadores 
 --------------------------------------------------
 Este menú es solo un ejercicio de práctica para el aprendizaje de html, CSS y un poco de Javascript
 donde se realizarón algunos efectos visuales y funcionalidades basicas, por lo cual no es un proyecto o un sitio web
-funcional para 
+totalmente funcional, aunque podria ser util se usara como base o plantilla para la construcción de un sitio web 100% funcional. 
 
 #tecnologias usadas
 -------------------------------------------------
