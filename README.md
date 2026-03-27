@@ -18,7 +18,7 @@ Dentro de este ejercicio se aplicarón varias tecnologias tales como:
 
 # Funcionalidades
 ----------------------------------------------
-dentro de las funcionalidades solo colocaron algunas basicas tales como:
+dentro de las funcionalidades solo coloque algunas basicas tales como:
 > Cambiar logotipo del sitio al clicar 5 veces sobre el
 > Realizar Efectos en los enlaces del Menú usando transiciones y sombras en los textos, al pasar el mouse sobre ellos
 > Al clicar sobre el Boton Explorar se despliega desde la parte superior del sitio web una lluvia de confeti
