@@ -7,6 +7,8 @@ Este menú es solo un ejercicio de práctica para el aprendizaje de html, CSS y 
 donde se realizarón algunos efectos visuales y funcionalidades basicas, por lo cual no es un proyecto o un sitio web
 totalmente funcional, aunque podria ser util se usara como base o plantilla para la construcción de un sitio web 100% funcional. 
 
+#Link: https://maicolroma.github.io/MenuGamer/
+
 #tecnologias usadas
 -------------------------------------------------
 Dentro de este ejercicio se aplicarón varias tecnologias tales como:
