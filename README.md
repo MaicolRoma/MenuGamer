@@ -1,3 +1,7 @@
+![Captura1](https://github.com/user-attachments/assets/c86211c4-0f56-4c3a-9170-7d78ed6351bb)
+![Captura4](https://github.com/user-attachments/assets/fc5020e3-d9f6-4c9b-a49b-8a94b3654800)
+![Captura2](https://github.com/user-attachments/assets/d0b04483-c91a-4646-ade0-911bf0571e9b)
+![Captura3](https://github.com/user-attachments/assets/a476030d-d5a4-4e5f-a8d8-d20b323753dc)
 # MenuGamer
 Este es un menú basico para un sitio web orientado a la compra de computadores gamer y para la compra y descargas de Video juegos.
 
@@ -27,8 +31,5 @@ dentro de las funcionalidades solo coloque algunas basicas tales como:
   visulización del sitio web.
 
 
-![Captura1](https://github.com/user-attachments/assets/c86211c4-0f56-4c3a-9170-7d78ed6351bb)
-![Captura4](https://github.com/user-attachments/assets/fc5020e3-d9f6-4c9b-a49b-8a94b3654800)
-![Captura2](https://github.com/user-attachments/assets/d0b04483-c91a-4646-ade0-911bf0571e9b)
-![Captura3](https://github.com/user-attachments/assets/a476030d-d5a4-4e5f-a8d8-d20b323753dc)
+
 
